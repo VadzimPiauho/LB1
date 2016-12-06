@@ -1,0 +1,12 @@
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 3\bin\Debug\case 3.exe.config
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 3\bin\Debug\case 3.exe
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 3\bin\Debug\case 3.pdb
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 3\obj\Debug\case 3.exe
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 3\obj\Debug\case 3.pdb
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 3\obj\Debug\case 3.csprojResolveAssemblyReference.cache
+E:\programming training\C#\lb1\ConsoleApplication37\case 3\bin\Debug\case 3.exe.config
+E:\programming training\C#\lb1\ConsoleApplication37\case 3\obj\Debug\case 3.exe
+E:\programming training\C#\lb1\ConsoleApplication37\case 3\obj\Debug\case 3.pdb
+E:\programming training\C#\lb1\ConsoleApplication37\case 3\bin\Debug\case 3.exe
+E:\programming training\C#\lb1\ConsoleApplication37\case 3\bin\Debug\case 3.pdb
+E:\programming training\C#\lb1\ConsoleApplication37\case 3\obj\Debug\case 3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\programming training\C#\lb1\ConsoleApplication37\case 4\bin\Debug\case 4.exe.config
+E:\programming training\C#\lb1\ConsoleApplication37\case 4\bin\Debug\case 4.exe
+E:\programming training\C#\lb1\ConsoleApplication37\case 4\bin\Debug\case 4.pdb
+E:\programming training\C#\lb1\ConsoleApplication37\case 4\obj\Debug\case 4.csprojResolveAssemblyReference.cache
+E:\programming training\C#\lb1\ConsoleApplication37\case 4\obj\Debug\case 4.exe
+E:\programming training\C#\lb1\ConsoleApplication37\case 4\obj\Debug\case 4.pdb

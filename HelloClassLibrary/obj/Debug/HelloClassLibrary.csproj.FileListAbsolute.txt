@@ -1,0 +1,5 @@
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\HelloClassLibrary\bin\Debug\HelloClassLibrary.dll
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\HelloClassLibrary\bin\Debug\HelloClassLibrary.pdb
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\HelloClassLibrary\obj\Debug\HelloClassLibrary.csprojResolveAssemblyReference.cache
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\HelloClassLibrary\obj\Debug\HelloClassLibrary.dll
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\HelloClassLibrary\obj\Debug\HelloClassLibrary.pdb

@@ -1,0 +1,18 @@
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 2\bin\Debug\case 2.exe.config
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 2\bin\Debug\case 2.exe
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 2\bin\Debug\case 2.pdb
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 2\obj\Debug\case 2.exe
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 2\obj\Debug\case 2.pdb
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\case 2\obj\Debug\case 2.csprojResolveAssemblyReference.cache
+E:\programming training\C#\lb1\ConsoleApplication37\case 2\bin\Debug\case 2.exe.config
+E:\programming training\C#\lb1\ConsoleApplication37\case 2\bin\Debug\case 2.exe
+E:\programming training\C#\lb1\ConsoleApplication37\case 2\bin\Debug\case 2.pdb
+E:\programming training\C#\lb1\ConsoleApplication37\case 2\obj\Debug\case 2.csprojResolveAssemblyReference.cache
+E:\programming training\C#\lb1\ConsoleApplication37\case 2\obj\Debug\case 2.exe
+E:\programming training\C#\lb1\ConsoleApplication37\case 2\obj\Debug\case 2.pdb
+E:\programming training\GitHub\Laba1\case 2\bin\Debug\case 2.exe.config
+E:\programming training\GitHub\Laba1\case 2\obj\Debug\case 2.exe
+E:\programming training\GitHub\Laba1\case 2\obj\Debug\case 2.pdb
+E:\programming training\GitHub\lb1\case 2\bin\Debug\case 2.exe.config
+E:\programming training\GitHub\lb1\case 2\obj\Debug\case 2.exe
+E:\programming training\GitHub\lb1\case 2\obj\Debug\case 2.pdb

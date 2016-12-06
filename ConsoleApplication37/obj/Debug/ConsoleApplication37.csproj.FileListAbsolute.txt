@@ -1,0 +1,7 @@
+c:\users\pst\documents\visual studio 2013\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe.config
+c:\users\pst\documents\visual studio 2013\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe
+c:\users\pst\documents\visual studio 2013\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.pdb
+c:\users\pst\documents\visual studio 2013\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.csprojResolveAssemblyReference.cache
+c:\users\pst\documents\visual studio 2013\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.exe
+c:\users\pst\documents\visual studio 2013\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.pdb
+c:\Users\pst\Documents\Visual Studio 2013\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\case 1.exe.config

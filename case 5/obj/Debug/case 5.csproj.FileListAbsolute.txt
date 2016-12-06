@@ -1,0 +1,5 @@
+E:\programming training\C#\lb1\ConsoleApplication37\case 5\bin\Debug\case 5.exe.config
+E:\programming training\C#\lb1\ConsoleApplication37\case 5\bin\Debug\case 5.exe
+E:\programming training\C#\lb1\ConsoleApplication37\case 5\bin\Debug\case 5.pdb
+E:\programming training\C#\lb1\ConsoleApplication37\case 5\obj\Debug\case 5.exe
+E:\programming training\C#\lb1\ConsoleApplication37\case 5\obj\Debug\case 5.pdb
